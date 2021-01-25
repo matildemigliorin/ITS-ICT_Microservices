@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d5b968e7-ccc8-4ca4-86c2-44361691c28b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/MySolution/Book/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/MySolution/Book/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/MySolution/Book/src/test/java/BookRepositoryUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/MySolution/Book/src/test/java/BookRepositoryUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignments/MySolution/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/MySolution/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ITS-ICT_Microservices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assignments/MySolution/Book" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -35,11 +37,19 @@
       <recent name="C:\Users\matil\Documents\GitHub\ITS-ICT_Microservices\assignments\MySolution\Borrowing" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.start-infra.sh">
+  <component name="RunManager" selected="Application.BookControllerUnitTest">
     <configuration name="App" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="org.example.book.TestApp" />
+      <module name="ITS-ICT_Microservices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/MySolution/Book" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookControllerUnitTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.book" />
       <module name="ITS-ICT_Microservices" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/MySolution/Book" />
       <method v="2">
@@ -60,6 +70,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.BookControllerUnitTest" />
       <item itemvalue="Application.App" />
       <item itemvalue="Shell Script.start-infra.sh" />
     </list>

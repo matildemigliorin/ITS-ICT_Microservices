@@ -36,4 +36,23 @@ public class BookRepositoryUnitTest {
         assertEquals(1,userRepository.findAll().size()  );
     }
 
+    @Test
+    public void testGetBookById(){
+        try{
+            Book book = new Book();
+            book.setBookId(1L);
+            book.setAuthor("Ray Bradbury");
+            book.setTitle("Fahrenheit 451");
+            book.setGenre("Romanzo");
+            book.setYear(1956);
+            book.setPublishingHouse("Mondadori");
+            bookRepo.save(book);
+
+            bookRepo.findById(1L);
+        }
+        catch(Exception e){
+            e.printStackTrace();
+        }
+    }
+
 }

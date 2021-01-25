@@ -32,7 +32,7 @@ services:
       context: ./customers
     container_name: customer-ms
     ports:
-      - "8123:8123"
+      - "8121:8121"
     depends_on:
       - mongodb_db
 

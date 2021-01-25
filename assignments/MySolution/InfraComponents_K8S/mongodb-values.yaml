@@ -1,0 +1,15 @@
+---
+auth:
+  enabled: true
+  rootPassword: root
+  username: root
+  password: root
+  database: customer_db
+
+  ---
+  auth:
+    enabled: true
+    rootPassword: root
+    username: root
+    password: root
+    database: user_db

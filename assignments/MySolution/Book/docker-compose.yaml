@@ -1,0 +1,29 @@
+version: "3.7"
+services:
+  #
+  # Book Microservice
+  #
+  customer-ms:
+    build:
+      context: ./book
+    container_name: book-ms
+    ports:
+      - "8122:8122"
+    depends_on:
+      - mongodb_db
+
+  mongodb_db:
+    image: mongo:latest
+    container_name: user-mongodb
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+      MONGO_INITDB_DATABASE: user_db
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodb_data:/data/db
+
+volumes:
+  mongodb_data: {}
+  postgres_data: {}

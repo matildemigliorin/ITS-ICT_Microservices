@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b968e7-ccc8-4ca4-86c2-44361691c28b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/customer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/pom_orig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/src/main/java/it/sunnyvale/academy/microservices/CustomerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/src/main/java/it/sunnyvale/academy/microservices/config/SwaggerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/src/main/java/it/sunnyvale/academy/microservices/controllers/CustomerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/src/main/java/it/sunnyvale/academy/microservices/exceptions/CustomerNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/src/main/java/it/sunnyvale/academy/microservices/model/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/src/main/java/it/sunnyvale/academy/microservices/repos/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/src/main/java/it/sunnyvale/academy/microservices/services/TraceService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/customer/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/docker-compose.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/microservices/start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/MySolution/Book/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/MySolution/Book/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/MySolution/Borrowing/src/main/java/org/example/borrowing/services/BorrowingApplication.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +28,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assignments/MySolution/Customers/src/main/java/org/example/customers/service" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matil\Documents\GitHub\ITS-ICT_Microservices\assignments\MySolution\Customers\src\main\java\org\example\customers\service" />
+      <recent name="C:\Users\matil\Documents\GitHub\ITS-ICT_Microservices\assignments\MySolution\Borrowing\src\main\java\org\example\borrowing\services" />
+      <recent name="C:\Users\matil\Documents\GitHub\ITS-ICT_Microservices\assignments\MySolution\Book\src\main\java\org\example\book\service" />
+      <recent name="C:\Users\matil\Documents\GitHub\ITS-ICT_Microservices\assignments\MySolution\Notification" />
+      <recent name="C:\Users\matil\Documents\GitHub\ITS-ICT_Microservices\assignments\MySolution\Customers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matil\Documents\GitHub\ITS-ICT_Microservices\assignments\MySolution\Borrowing" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="ITS-ICT_Microservices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d5b968e7-ccc8-4ca4-86c2-44361691c28b" name="Default Changelist" comment="" />
@@ -56,5 +63,16 @@
       <updated>1607537393545</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

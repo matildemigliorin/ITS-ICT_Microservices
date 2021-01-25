@@ -29,7 +29,7 @@ services:
   #
   customer-ms:
     build:
-      context: ./customer
+      context: ./customers
     container_name: customer-ms
     ports:
       - "8123:8123"

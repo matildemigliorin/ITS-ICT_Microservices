@@ -36,7 +36,7 @@ services:
     depends_on:
       - mongodb_db
 
-  mongodb_db:
+  mongodbdb:
     image: mongo:latest
     container_name: customer-mongodb
     environment:
